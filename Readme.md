@@ -109,6 +109,6 @@ Three endpoints implemented for receiving addresses;
 Cucumber test automation tool and REST-assured library is used for testing provided web services and also all generated addresses validated by unit tests. You can reach test scenarios from the following file; <br>
 `src/test/resources/features/AddressRandomizer.feature`
 <br>For reporting test results, master thought cucumber reporting plugin is used. You can access sample test reports from the following file; <br>
-`https://github.com/ialan001/AddressRandomizer/blob/master/test_report/cucumber-html-reports/overview-features.html`
+https://github.com/ialan001/AddressRandomizer/blob/master/test_report/cucumber-html-reports/overview-features.html
  ## Generating more addresses     
 For generating addresses data generator utility class is implemented which is stored under the `src/main/java/com/addressrandomizer/utilities/DataGenerator.java`. In this file by changing only default size parameter it is easy to generate more sample addresses for supported countries.
