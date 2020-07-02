@@ -111,4 +111,4 @@ Cucumber test automation tool and REST-assured library is used for testing provi
 <br>For reporting test results, master thought cucumber reporting plugin is used. You can access sample test reports from the following file; <br>
 [`test_report/cucumber-html-reports/overview-features.html`](https://htmlpreview.github.io/?https://github.com/ialan001/AddressRandomizer/blob/master/test_report/cucumber-html-reports/overview-features.html)
  ## Generating more addresses     
-For generating addresses data generator utility class is implemented which is stored under the `src/main/java/com/addressrandomizer/utilities/DataGenerator.java`. In this file by changing only default size parameter it is easy to generate more sample addresses for supported countries.
+For generating addresses data generator utility class is implemented which is stored under the [`src/main/java/com/addressrandomizer/utilities/DataGenerator.java`](https://github.com/ialan001/AddressRandomizer/blob/master/src/main/java/com/addressrandomizer/utilities/DataGenerator.java). In this file by changing only default size parameter it is easy to generate more sample addresses for supported countries.
