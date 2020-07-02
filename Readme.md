@@ -107,7 +107,7 @@ Three endpoints implemented for receiving addresses;
                   Supported countries : United States, Canada, Mexico and Netherlands`
  ## Test Results                  
 Cucumber test automation tool and REST-assured library is used for testing provided web services and also all generated addresses validated by unit tests. You can reach test scenarios from the following file; <br>
-`src/test/resources/features/AddressRandomizer.feature`
+[`src/test/resources/features/AddressRandomizer.feature`](https://github.com/ialan001/AddressRandomizer/blob/master/src/test/resources/features/AddressRandomizer.feature)
 <br>For reporting test results, master thought cucumber reporting plugin is used. You can access sample test reports from the following file; <br>
 [`test_report/cucumber-html-reports/overview-features.html`](https://htmlpreview.github.io/?https://github.com/ialan001/AddressRandomizer/blob/master/test_report/cucumber-html-reports/overview-features.html)
  ## Generating more addresses     
