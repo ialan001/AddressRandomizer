@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!--to disable noisy http client debug messages-->
+    <logger name="org.apache" level="WARN"/>
+    <logger name="httpclient" level="WARN"/>
+</configuration>
+
